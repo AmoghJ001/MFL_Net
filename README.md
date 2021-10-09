@@ -3,4 +3,5 @@ This repository contains the MFL_Net code. The model was trained on two datasets
 1) COVID-CT Dataset<br/>
 2) SARS-CoV-2 CT Scan Dataset<br/>
 
-![IMG](./Img/mfl.png)
+![IMG](./Img/mfl-final.jpg)
+![IMG](./Img/model-final.jpg)
