@@ -4,8 +4,8 @@ This repository contains the MFL_Net code. The model was trained on two datasets
 2) SARS-CoV-2 CT Scan Dataset<br/>
 
 ![IMG](./Img/mfl-final.jpg)
-Illustration of the proposed multi-scale feature learning (MFL) block. It consists of five convolutional layers with 3  3 filters and residual
-connections to capture features with various sizes receptive fields (i.e., multi-scale features). The 11 convolutional layers are used to reduce the
+Illustration of the proposed multi-scale feature learning (MFL) block. It consists of five convolutional layers with 3x3 filters and residual
+connections to capture features with various sizes receptive fields (i.e., multi-scale features). The 1x1 convolutional layers are used to reduce the
 number of channels in the feature maps
 
 ![IMG](./Img/model-final.jpg)
